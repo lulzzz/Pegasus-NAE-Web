@@ -11,9 +11,6 @@ D:\dc995\PegasusMissions\NAE\BootstrapTemplate\WebApplication1\bin\roslyn\System
 D:\dc995\PegasusMissions\NAE\BootstrapTemplate\WebApplication1\bin\roslyn\vbc.exe
 D:\dc995\PegasusMissions\NAE\BootstrapTemplate\WebApplication1\bin\roslyn\VBCSCompiler.exe
 D:\dc995\PegasusMissions\NAE\BootstrapTemplate\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
-D:\dc995\PegasusMissions\NAE\BootstrapTemplate\WebApplication1\bin\WebApplication1.dll.config
-D:\dc995\PegasusMissions\NAE\BootstrapTemplate\WebApplication1\bin\WebApplication1.dll
-D:\dc995\PegasusMissions\NAE\BootstrapTemplate\WebApplication1\bin\WebApplication1.pdb
 D:\dc995\PegasusMissions\NAE\BootstrapTemplate\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
 D:\dc995\PegasusMissions\NAE\BootstrapTemplate\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
 D:\dc995\PegasusMissions\NAE\BootstrapTemplate\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
@@ -29,5 +26,8 @@ D:\dc995\PegasusMissions\NAE\BootstrapTemplate\WebApplication1\bin\Microsoft.AI.
 D:\dc995\PegasusMissions\NAE\BootstrapTemplate\WebApplication1\bin\Microsoft.ApplicationInsights.xml
 D:\dc995\PegasusMissions\NAE\BootstrapTemplate\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 D:\dc995\PegasusMissions\NAE\BootstrapTemplate\WebApplication1\obj\Debug\BootstrapSampleTemplate.csprojResolveAssemblyReference.cache
-D:\dc995\PegasusMissions\NAE\BootstrapTemplate\WebApplication1\obj\Debug\WebApplication1.dll
-D:\dc995\PegasusMissions\NAE\BootstrapTemplate\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\dc995\PegasusMissions\NAE\BootstrapTemplate\WebApplication1\bin\BootstrapSample.dll.config
+D:\dc995\PegasusMissions\NAE\BootstrapTemplate\WebApplication1\bin\BootstrapSample.dll
+D:\dc995\PegasusMissions\NAE\BootstrapTemplate\WebApplication1\bin\BootstrapSample.pdb
+D:\dc995\PegasusMissions\NAE\BootstrapTemplate\WebApplication1\obj\Debug\BootstrapSample.dll
+D:\dc995\PegasusMissions\NAE\BootstrapTemplate\WebApplication1\obj\Debug\BootstrapSample.pdb
