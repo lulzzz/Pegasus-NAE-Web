@@ -1,0 +1,4 @@
+C:\Dev\PegasusMissionNAEWeb\FieldGateway.Telemetry.Generator\bin\Debug\FieldGateway.Telemetry.Generator.exe.config
+C:\Dev\PegasusMissionNAEWeb\FieldGateway.Telemetry.Generator\obj\Debug\FieldGateway.Telemetry.Generator.csprojResolveAssemblyReference.cache
+C:\Dev\PegasusMissionNAEWeb\FieldGateway.Telemetry.Generator\obj\Debug\FieldGateway.Telemetry.Generator.Properties.Resources.resources
+C:\Dev\PegasusMissionNAEWeb\FieldGateway.Telemetry.Generator\obj\Debug\FieldGateway.Telemetry.Generator.csproj.GenerateResource.Cache

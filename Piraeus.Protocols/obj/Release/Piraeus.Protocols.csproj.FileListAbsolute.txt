@@ -1,0 +1,5 @@
+C:\Dev\Pegasus\PegasusMissionWeb\Piraeus.Protocols\bin\Release\Piraeus.Protocols.dll
+C:\Dev\Pegasus\PegasusMissionWeb\Piraeus.Protocols\bin\Release\Piraeus.Protocols.pdb
+C:\Dev\Pegasus\PegasusMissionWeb\Piraeus.Protocols\obj\Release\Piraeus.Protocols.csprojResolveAssemblyReference.cache
+C:\Dev\Pegasus\PegasusMissionWeb\Piraeus.Protocols\obj\Release\Piraeus.Protocols.dll
+C:\Dev\Pegasus\PegasusMissionWeb\Piraeus.Protocols\obj\Release\Piraeus.Protocols.pdb

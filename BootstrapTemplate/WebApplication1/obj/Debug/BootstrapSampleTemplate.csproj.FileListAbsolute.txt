@@ -31,3 +31,4 @@ D:\dc995\PegasusMissions\NAE\BootstrapTemplate\WebApplication1\bin\BootstrapSamp
 D:\dc995\PegasusMissions\NAE\BootstrapTemplate\WebApplication1\bin\BootstrapSample.pdb
 D:\dc995\PegasusMissions\NAE\BootstrapTemplate\WebApplication1\obj\Debug\BootstrapSample.dll
 D:\dc995\PegasusMissions\NAE\BootstrapTemplate\WebApplication1\obj\Debug\BootstrapSample.pdb
+C:\Dev\PegasusMissionNAEWeb\BootstrapTemplate\WebApplication1\obj\Debug\BootstrapSampleTemplate.csprojResolveAssemblyReference.cache

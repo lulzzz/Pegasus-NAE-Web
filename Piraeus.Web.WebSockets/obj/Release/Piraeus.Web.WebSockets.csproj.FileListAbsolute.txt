@@ -1,0 +1,6 @@
+C:\Dev\Pegasus\PegasusMissionWeb\Piraeus.Web.WebSockets\bin\Release\Piraeus.Web.WebSockets.dll
+C:\Dev\Pegasus\PegasusMissionWeb\Piraeus.Web.WebSockets\bin\Release\Piraeus.Web.WebSockets.pdb
+C:\Dev\Pegasus\PegasusMissionWeb\Piraeus.Web.WebSockets\bin\Release\Microsoft.WebSockets.dll
+C:\Dev\Pegasus\PegasusMissionWeb\Piraeus.Web.WebSockets\obj\Release\Piraeus.Web.WebSockets.csprojResolveAssemblyReference.cache
+C:\Dev\Pegasus\PegasusMissionWeb\Piraeus.Web.WebSockets\obj\Release\Piraeus.Web.WebSockets.dll
+C:\Dev\Pegasus\PegasusMissionWeb\Piraeus.Web.WebSockets\obj\Release\Piraeus.Web.WebSockets.pdb
